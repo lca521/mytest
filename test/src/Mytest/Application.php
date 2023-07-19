@@ -1,10 +1,10 @@
 <?php
 
-namespace Testmy\Mytest;
+namespace Testmy\TestMytest;
 
-use Testmy\Kernel\Base;
-use Testmy\Kernel\Exceptions\BadResponseException;
-use Testmy\Kernel\Traits\Utils;
+use Testmy\TestKernel\Base;
+use Testmy\TestKernel\Exceptions\BadResponseException;
+use Testmy\TestKernel\Traits\Utils;
 
 class Application extends Base
 {

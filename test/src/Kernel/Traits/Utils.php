@@ -1,9 +1,9 @@
 <?php
 
-namespace Testmy\Kernel\Traits;
+namespace Testmy\TestKernel\Traits;
 
 
-use Testmy\Kernel\Exceptions\BadResponseException;
+use Testmy\TestKernel\Exceptions\BadResponseException;
 
 trait Utils
 {

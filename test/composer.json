@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Testmy\\": "src/"
+      "Testmy\\Test\\": "src/"
     }
   }
 }

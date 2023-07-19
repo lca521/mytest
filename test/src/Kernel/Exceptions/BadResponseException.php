@@ -1,6 +1,6 @@
 <?php
 
-namespace Testmy\Kernel\Exceptions;
+namespace Testmy\TestKernel\Exceptions;
 
 class BadResponseException extends Exception
 {
