@@ -1,0 +1,25 @@
+{
+  "name": "lca/test",
+  "type": "library",
+  "description": "mytest",
+  "keywords": [
+    "your",
+    "package",
+    "keywords"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lca",
+      "email": "zhangsan"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "Lca\\Test\\": "src/"
+    }
+  }
+}
