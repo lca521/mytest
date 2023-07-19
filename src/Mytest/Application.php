@@ -1,17 +1,14 @@
 <?php
 
-namespace Testmy\TestMytest;
+namespace Testmy\Test;
 
-use Testmy\TestKernel\Base;
-use Testmy\TestKernel\Exceptions\BadResponseException;
-use Testmy\TestKernel\Traits\Utils;
+use Testmy\Test\Kernel\Base;
+use Testmy\Test\Kernel\Exceptions\BadResponseException;
+use Testmy\Test\Kernel\Traits\Utils;
 
 class Application extends Base
 {
     use Utils;
-
-    protected $type = 'chatgpt';
-
 
     /**
      * 截图
