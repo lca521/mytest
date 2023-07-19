@@ -10,12 +10,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "lca",
-      "email": "zhangsan"
+      "name": "lca"
     }
   ],
   "require": {
-
+    "php": ">=7.2"
   },
   "autoload": {
     "psr-4": {
