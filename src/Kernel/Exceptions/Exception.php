@@ -1,6 +1,6 @@
 <?php
 
-namespace Lca\Test\Kernel\Exceptions;
+namespace Testmy\Kernel\Exceptions;
 
 class Exception extends \Exception
 {

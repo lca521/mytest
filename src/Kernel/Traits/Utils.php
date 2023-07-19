@@ -1,9 +1,9 @@
 <?php
 
-namespace Lca\Test\Kernel\Traits;
+namespace Testmy\Kernel\Traits;
 
 
-use Lca\Test\Kernel\Exceptions\BadResponseException;
+use Testmy\Kernel\Exceptions\BadResponseException;
 
 trait Utils
 {

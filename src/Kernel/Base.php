@@ -1,6 +1,6 @@
 <?php
 
-namespace Lca\Test\Kernel;
+namespace Testmy\Kernel;
 
 
 class Base

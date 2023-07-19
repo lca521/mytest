@@ -1,5 +1,5 @@
 {
-  "name": "lca/test",
+  "name": "Testmy/test",
   "type": "library",
   "description": "mytest",
   "keywords": [
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Lca\\Test\\": "src/"
+      "Testmy\\": "src/"
     }
   }
 }

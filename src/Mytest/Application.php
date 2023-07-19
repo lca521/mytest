@@ -1,10 +1,10 @@
 <?php
 
-namespace Lca\Test\Mytest;
+namespace Testmy\Mytest;
 
-use Lca\Test\Kernel\Base;
-use Lca\Test\Kernel\Exceptions\BadResponseException;
-use Lca\Test\Kernel\Traits\Utils;
+use Testmy\Kernel\Base;
+use Testmy\Kernel\Exceptions\BadResponseException;
+use Testmy\Kernel\Traits\Utils;
 
 class Application extends Base
 {
